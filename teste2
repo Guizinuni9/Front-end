@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vlog da Livraria</title>
+</head>
+<body>
+
+    <header>
+        <h1>Vlog da Livraria</h1>
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#videos">Vídeos</a> 
+            <a href="#sobre">Sobre Nós</a> 
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <main>
+        
+        <section id="videos">
+            <h2>Últimas Noticias</h2>
+
+            <article>
+                <h3>Dicas de Leitura - Romance Clássico</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo1" title="Dicas de Leitura - Romance Clássico" allowfullscreen></iframe>
+            </article>
+
+            <article>
+                <h3>Melhores Livros de Fantasia</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo2" title="Melhores Livros de Fantasia" allowfullscreen></iframe>
+            </article>
+
+            <article>
+                <h3>Organização de Estante de Livros</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo3" title="Organização de Estante de Livros" allowfullscreen></iframe>
+            </article>
+
+            <article>
+                <h3>Entrevista com Autores Famosos</h3>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/exemplo4" title="Entrevista com Autores Famosos" allowfullscreen></iframe>
+            </article>
+        </section>
+
+      
+        <section id="sobre">
+            <h2>Sobre a Livraria</h2>
+            <p>Bem-vindo ao <strong>Vlog da Livraria</strong>! Nosso vlog é dedicado aos amantes dos livros , onde compartilhamos dicas de leitura, resenhas, entrevistas com autores e muito mais.</p>
+            <p>Nosso objetivo é inspirar leitores e fornecer recomendações literárias variadas, conectando os leitores com o vasto universo da literatura.</p>
+        </section>
+    </main>
+
+</body>
+</html>
