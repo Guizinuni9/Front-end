@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Livraria</title>
+    <link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div class="header">
+        <div class="logo">
+          <h1><span class="branco">blog</span> Livraria</h1>
+        </div>
+        <div class="menu">
+            <a href="#">Pagina inicial</a>
+            <a href="#">Sobre</a>
+            <a href="#">Contatos</a>
+            <a href="#">Livros</a>
+        </div>
+    
+    <div class="container">
+        <div class="posts">
+            <!--Postagem-->
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img1 - Copia.webp"/>
+            <p>O que fala o livro O Homem que Escutava as Abelhas?
+                SinopseO homem que escutava as abelhas
+                
+                Nuri cria abelhas; sua esposa, Afra, é uma artista visual. Eles levam uma vida simples, mas plena de afeto, entre familiares e amigos, na bela cidade síria de Alepo – até que o impensável acontece. Quando tudo o que importa é dizimado pela guerra, eles são forçados a fugir.</p>
+
+                <a href="#">Leia Mais...</a>
+
+        </div>  
+        
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img2.webp"/>
+            <p>Uma mistura de Corra! e O Diabo Veste Prada , A outra garota negra une elementos de suspense a questões como privilégio, raça e gênero, criando um relato instigante sobre as dinâmicas de poder em uma estrutura social dominada por brancos.
+
+                Nella Rogers está cansada de ser a única funcionária negra da editora Wagner Books. Quando já não aguenta mais se sentir deslocada e lidar com as microagressões no ambiente de trabalho, o destino parece enfim presenteá-la com uma aliada: outra garota negra, Hazel, passa a trabalhar na baia ao lado da sua. Porém, à medida que Hazel ganha influência e atenção no escritório, Nella vai se sentindo deixada de lado.</p>            <a href="#">Leia Mais...</a>
+
+        </div>   
+
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img4.jpg"/>
+            <p>Nesse livro inovador, o autor do best-seller O CÉREBRO DA CRIANÇA, Daniel J. Siegel, mostra aos pais, profissionais da educação e do comportamento como transformar um dos períodos de desenvolvimento mais difíceis da vida em uma experiência gratificante e transformadora. Entre as idades de 12 e 24 anos, o cérebro muda em aspectos importantes e muitas vezes enlouquecedores. Não é de admirar que muitos pais se aproximam da adolescência de seus filhos com medos e receios. Em CÉREBRO ADOLESCENTE, Siegel ilumina como o desenvolvimento do cérebro afeta o comportamento e as relações dos adolescentes. Baseando-se em novas pesquisas no campo da neurobiologia interpessoal, ele explora maneiras interessantes em que a compreensão do funcionamento do cérebro nos adolescentes pode ajudar os pais a fazer esse período ser incrivelmente positivo, com crescimento, mudança e experimentação, deixando a vida de seus filhos menos solitária e angustiante.</p>
+                <a href="#">Leia Mais...</a>
+
+        </div>   
+
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img5.webp"/>
+            <p>Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no mundo do ensino fundamental, onde fracotes são obrigados a dividir os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, o autor e ilustrados Jeff Kinney nos apresenta um herói improvável. Como Greg diz em seu diário. Só não espere que seja todo Querido Diário isso, Querido Diário aquilo. Para nossa sorte, o que Greg Heffley diz que fará e o que ele realmente faz são duas coisas bem diferentes.</p>
+                <a href="#">Leia Mais...</a>
+
+        </div>   
+
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img6.webp"/>
+            <p>Bob é uma toupeira que adora etiquetar as coisas. Um dia, ele encontra uma coisa muito estranha. Uma coisa escamosa. Uma coisa escamosa com dentes pontudos. Ahhh! Cuidado, Bob!</p>
+                <a href="#">Leia Mais...</a>
+
+        </div>   
+
+        <div class="post">
+            <h2>titulo da postagem 1</h2>
+            <span class="data-post">17 de julho de 2020</span>
+            <img src="./img7.webp"/>
+            <p>Esta é uma divertida fábula sobre a esperteza dos pequenos contra a força dos gigantes. O ratinho que protagoniza as cenas tenta esconder um morango maduro de um grande urso que, aliás, não aparece na história. Um interlocutor oculto, mais esperto ainda que o rato (e com o qual a criança se identifica), é quem vai narrando a história, ao mesmo tempo que convence o ratinho a dividir o morango com ele.</p>
+              <a href="#">Leia Mais...</a>
+
+        </div>   
+
+        </div>
+        <div class="barra-lateral">
+            <div class="conteudo-lateral">
+                <h3>Destaques</h3>
+            <divi class="post-destaque"></divi>
+            <h4>Titulo do Post</h4>
+            <p>Nuri cria abelhas; sua esposa, Afra, é uma artista visual. Eles levam uma vida simples, mas ple...</p>
+            <a href="#">Leia Mais</a>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Blog da empresa</p>
+    </div>
+
+</body>
+</html>
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(61, 85, 218);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.branco{
+    color: white;
+}
+
+.header{
+    background-color: rgb(18, 150, 184);
+    padding: 15px;
+    text-align: center;
+}
+
+a{
+    text-decoration: nome;
+    font-weight: bold;
+    color: rgb(25, 25, 170);
+}
+
+.post p {
+    margin 10px 0;
+}
+
+.menu, .logo {
+    padding: 10px;
+}
+
+.menu a,
+.menu a:visited {
+    color: white;
+    text-decoration: nome;
+    padding: 8px 12px;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: blue;
+}
+
+.container {
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.posts {
+    width: 660;
+    float: left;
+}
+
+.post {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.data-post {
+    font-size: 0.8em;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.barra-lateral {
+    width: 240px;
+    float: right;
+}
+
+.conteudo-lateral{
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.conteudo-lateral h3 {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+
+.post-destaque {
+    font-size: 0.8cm;
+    padding: 5px;
+}
+
+.post-destaque:last-child{
+    border: nome;
+}
+
+.footer {
+    clear: both;
+    background-color: blue;
+    padding: 15px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
